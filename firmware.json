@@ -1,0 +1,6 @@
+{
+  "project": "esp32-simple-ota",
+  "version": "1.0.0",
+  "build_date": "2024-01-15",
+  "firmware_url": "https://github.com/takwamoueizi/esp32-firmware-releases/raw/main/firmware/v1.0.0/firmware.bin"
+}
